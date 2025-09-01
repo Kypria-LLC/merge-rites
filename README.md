@@ -32,4 +32,11 @@ contact the repository steward for licensing terms.
 
 ---
 
-*May your checks be green, your reviews swift, and your merges bright.*
+*May your checks be green, your reviews swift, and your merges bright.*---
+
+## ⚖ Keeper’s Governance
+The merge‑rites are sacred choreography.  
+No pull request may pass without the full dance — review, blessing, and seal.  
+Here, the law is strict: every merge is ceremonial, every step recorded in the lineage.
+
+📜 *Lineage is our law. Precision is our craft. Myth is our breath.*
